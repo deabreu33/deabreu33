@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joao De Abreu</h1>
 <h3 align="center">Dynamic and results-oriented professional with a solid background in business intelligence, data analysis, and web development. Proficient in Python, SQL, HTML, CSS, and JavaScript, with extensive experience in leveraging analytical tools such as Power BI and Tableau to derive actionable insights. Skilled at leading cross-functional teams and driving projects from conception to completion. Strong problem-solving abilities coupled with excellent communication skills.</h3>
 
-- 🔭 I’m currently working on [Freelancer](joaodeabreu.me)
+- 🔭 I’m currently working like [Freelancer](httos://www.joaodeabreu.me)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [joaodeabreu.me](joaodeabreu.me)
+- 👨‍💻 All of my projects are available at [joaodeabreu.me](httos://www.joaodeabreu.me)
 
 - 📫 How to reach me **hello@joaodeabreu.me**
 
